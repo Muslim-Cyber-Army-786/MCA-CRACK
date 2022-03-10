@@ -1,8 +1,7 @@
 # MCA-CRACK
-public id cloner
 
 
-#Command
+# Command
 
 🥀Enjoy💚
 🔰apt update
